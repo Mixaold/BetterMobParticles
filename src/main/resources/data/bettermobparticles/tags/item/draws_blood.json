@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:enchantable/sharp_weapon",
+    "#minecraft:enchantable/trident",
+    "#minecraft:enchantable/mace",
+    "#minecraft:pickaxes",
+    "#minecraft:shovels",
+    "#minecraft:hoes"
+  ]
+}

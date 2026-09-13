@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "bettermobparticles",
+	"version": "${version}",
+	"name": "Better Mob Particles",
+	"description": "Mobs and players throw off fitting particles when hurt - red blood for flesh, sparks for a blaze, air for a breeze, and more - from any weapon, arrow or fist.",
+	"authors": [
+		"Mixaold"
+	],
+	"contact": {
+		"homepage": "https://github.com/Mixaold/BetterMobParticles",
+		"sources": "https://github.com/Mixaold/BetterMobParticles",
+		"issues": "https://github.com/Mixaold/BetterMobParticles/issues"
+	},
+	"license": "MIT",
+	"icon": {
+		"256": "assets/bettermobparticles/icon.png",
+		"512": "assets/bettermobparticles/icon_512.png"
+	},
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.bettermobparticles.BetterMobParticlesMod"
+		],
+		"client": [
+			"net.bettermobparticles.client.BetterMobParticlesModClient"
+		],
+		"modmenu": [
+			"net.bettermobparticles.client.config.BetterMobParticlesModMenu"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*",
+		"cloth-config": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}

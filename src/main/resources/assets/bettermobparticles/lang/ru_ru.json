@@ -1,0 +1,18 @@
+{
+  "bettermobparticles.config.title": "Better Mob Particles",
+  "bettermobparticles.config.category.main": "Частицы",
+  "bettermobparticles.config.category.melee": "Ближний бой",
+
+  "bettermobparticles.config.enabled": "Включено",
+  "bettermobparticles.config.enabled.tooltip": "Включает или выключает все частицы ран целиком — от стрел, ближнего боя, отовсюду.",
+  "bettermobparticles.config.particleCount": "Количество частиц",
+  "bettermobparticles.config.lifetimeTicks": "Сколько лежит (тиков)",
+  "bettermobparticles.config.lifetimeTicks.tooltip": "20 тиков — секунда. Капли падают, ложатся на поверхность и растворяются.",
+  "bettermobparticles.config.force": "Сила выброса",
+  "bettermobparticles.config.force.tooltip": "Насколько сильно капли вылетают из раны. Малые значения — кровь выступает и падает; большие — разлетается через всю комнату.",
+
+  "bettermobparticles.config.meleeEnabled": "Частицы от ближнего боя",
+  "bettermobparticles.config.meleeEnabled.tooltip": "Мечи, топоры и прочие инструменты тоже пускают кровь, не только стрелы.",
+  "bettermobparticles.config.barehandChance": "Шанс без инструмента (%)",
+  "bettermobparticles.config.barehandChance.tooltip": "Кулаком или случайным предметом кровь идёт лишь иногда и слабее."
+}

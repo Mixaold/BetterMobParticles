@@ -1,0 +1,18 @@
+{
+  "bettermobparticles.config.title": "Better Mob Particles",
+  "bettermobparticles.config.category.main": "Particles",
+  "bettermobparticles.config.category.melee": "Melee",
+
+  "bettermobparticles.config.enabled": "Enabled",
+  "bettermobparticles.config.enabled.tooltip": "Turn all wound particles on or off - arrows, melee, everything.",
+  "bettermobparticles.config.particleCount": "Particle count",
+  "bettermobparticles.config.lifetimeTicks": "How long it lies (ticks)",
+  "bettermobparticles.config.lifetimeTicks.tooltip": "20 ticks is one second. Droplets fall, land and fade out.",
+  "bettermobparticles.config.force": "Spray force",
+  "bettermobparticles.config.force.tooltip": "How hard droplets are thrown out of the wound. Low values let blood well out and drop; high values fire it across the room.",
+
+  "bettermobparticles.config.meleeEnabled": "Particles from melee",
+  "bettermobparticles.config.meleeEnabled.tooltip": "Swords, axes and other tools draw blood too, not just arrows.",
+  "bettermobparticles.config.barehandChance": "Chance without a tool (%)",
+  "bettermobparticles.config.barehandChance.tooltip": "A bare fist or a random item draws blood only sometimes, and less of it."
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "minecraft:blaze",
+      "required": false
+    },
+    {
+      "id": "minecraft:magma_cube",
+      "required": false
+    },
+    {
+      "id": "minecraft:wither",
+      "required": false
+    }
+  ]
+}
