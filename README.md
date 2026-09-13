@@ -1,5 +1,7 @@
 # Better Mob Particles
 
+[Русский](README.ru.md)
+
 Fabric mod for Minecraft 26.2.
 
 Hit a mob and it throws off what it's made of — blood from flesh, bone chips from skeletons, sparks
